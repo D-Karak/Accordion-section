@@ -24,6 +24,6 @@
 }
 @media(max-width:500px){
   .accordion:hover{
-    height: 200px;
+    height: 250px;
   }
 }
