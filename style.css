@@ -23,7 +23,7 @@
   font-size: 1.3em;
 }
 @media(max-width:500px){
-  .accordion{
+  .accordion:hover{
     height: 200px;
   }
 }
